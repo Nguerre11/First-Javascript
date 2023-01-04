@@ -1,0 +1,84 @@
+This is a guide and file is used for efficently learning throught ecoding tecniques (I use Open AI for learning, its awesome tool! )
+Index 
+    Workflow 
+    graph Recourses 
+    organization system 
+    notions unknow 
+    line-code to apply 
+    targets to lesson
+!important -> 2 and 3 are Recourses within of folder recourses-ecoding
+
+##Workflow ☑️
+1 Planning system ☑️
+    Assign syllabus to Excel spreadsheet
+    Estimate hours per syllabus including margin of error (reviews - practice)
+2.Pre-learning system (1 layer encoding) [1H]
+    Select Index Global ☑️
+    Separate them by global themes (Git - GitHub)☑️
+    Create an accurate index of the themes (class-until-class number)
+3.Atopic learning [2H] 
+    Review Videos El ☑️ (don't need this step for this course)
+    Analysis → creation of high-level learning hypotheses ☑️☑️
+        Review Open AI ☑️ ☑️☑️
+        Why is it important? ☑️ ☑️☑️
+        Can I relate them?  ☑️☑️☑️
+        Can I simplify them? ☑️☑️☑️
+        Can I categorize them into fragments? ☑️☑️☑️
+        I've finished Big Picture? ☑️(I've just create relations on this folder, don't draw organization system)
+
+Learning Workflow (2 layer encoding) [+20H]
+    1.Trends Index ☑️(not necesary)
+        Video 2.0X
+        a.Identify where is "conceptual comprehension" 
+        b. Apply high order learning encoding (do not
+        memorize or understand, relate, compare and
+        organize)
+        b. Identify the key points
+        c. I stop it when I've got "conceptual comprehension"
+        Code within the organization system (Big Picture) (layer 1)
+    2.Atopic learning (Quick review of multiple sources)
+        Review Forum
+        Select Summary
+        Understand it
+        Use Open AI to reinforce
+        Reinforce Big Picture (layer 2)
+    3.Comprehension Workflow and practical application
+        Divide Big Picture - Workflow by theme
+        Video 1.0X"
+        Focus on comprehension  "code comprehension"
+        Relate and create a 1-layer coding workflow
+        Program at the end of class. !important
+    4.Design Workflow coding 2 layer + Accumulative project (optional)
+        Step-by-step system of a definitive goal
+        Design Workflow .js files and readme
+        Create documentation based on this.
+        
+    
+##Index 🗂️
+    Bases Javascript
+    Condicionales ☑️
+    Arrays ☑️
+    Loops ☑️ 
+    Objects ☑️
+    Metodos Arrays ☑️
+
+
+##Notions unknow 🔞
+ null
+
+##Line-code to apply 🔑
+typeof
+
+
+##Targets to lesson 🧠
+    
+
+
+##Workflow coding 📑
+    1 layer
+    2 layer
+
+
+
+##Notions globals-proyects ♟️
+:
