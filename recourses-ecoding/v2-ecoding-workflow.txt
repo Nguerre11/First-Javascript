@@ -86,15 +86,40 @@ return
 !
 || something
 += increment any number 
+var resultado = numero === 2 ? "true" : "falses"; // different accomplishment to do if 
+break; default: placed by switch
+
+
 
 
 ##Targets to lesson 🧠
-
+piedra,papel o tijera challengue.
+1.draw 🐥
+2.fail 🏁
+3.win 🏁
+4.please select one 
+    cpu right🏁
+    user right - default
 ##Workflow coding 📑
     ###Functions
         function declaration
         bunch of code will be executed 
         invoke the function
+    ###Conditions if
+        Conditions declaration
+        value false or true 
+        bear bloq code if its true 
+    ##Loops for 
+    for (initialization; condition; iteration) { code to be executed
+    for (variable of iterable of Arrays) {// code to be executed
+}
+
+}
+
+}
+
+
+
 
 
 
