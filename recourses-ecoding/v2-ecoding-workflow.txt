@@ -93,13 +93,10 @@ break; default: placed by switch
 
 
 ##Targets to lesson 🧠
-piedra,papel o tijera challengue.
-1.draw 🐥
-2.fail 🏁
-3.win 🏁
-4.please select one 
-    cpu right🏁
-    user right - default
+    ###rescue student 
+       
+
+
 ##Workflow coding 📑
     ###Functions
         function declaration
@@ -112,6 +109,9 @@ piedra,papel o tijera challengue.
     ##Loops for 
     for (initialization; condition; iteration) { code to be executed
     for (variable of iterable of Arrays) {// code to be executed
+    ##Arrays recorridos (complex)
+        are methods used for filter, they dont modifique the main arrays
+        var.complexArray= mainArray(function);   
 }
 
 }

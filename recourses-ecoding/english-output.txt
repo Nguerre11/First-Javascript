@@ -1,0 +1,28 @@
+##5/01/23
+    ##Vocabulary 
+        deal with 
+        emaciated 
+        lightweight
+        well-known: conocido
+        scripting: escritura de scripts
+        retrieved: recuperado
+        coverage: cobertura
+        encountered: encontrado
+        provided: proporcionado
+        fetching: obteniendo
+        toolset: conjunto de herramientas
+        overview: visión general
+        approaches: se acerca
+        grab: agarrar
+        semicolons: puntos y comas
+        signify: significar
+        borrows: toma prestado
+        desired: deseado
+        nest: nido
+        uppercase: mayúsculas
+        identifiers: identificadores
+        unpack: desempacar
+        altogether: en conjunto
+        throwing: lanzando
+        forbid: prohibir
+        simple sentence example code documentation using
