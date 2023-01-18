@@ -49,7 +49,7 @@ Learning Workflow (2 layer encoding) [+20H] if Class==conceptual-comprehension, 
         Relate and create a 1-layer coding workflow
         Program at the end of class. !important
     4.Design Workflow coding 2 layer + Accumulative project (optional)
-        Step-by-step system of a definitive goal
+        Step-by-step system of a definitive goal    
         Design Workflow .js files and readme
         Create documentation based on this.
     5. Feedback Loop What did u useful?
@@ -88,12 +88,12 @@ return
 += increment any number 
 var resultado = numero === 2 ? "true" : "falses"; // different accomplishment to do if 
 break; default: placed by switch
-
+for (in) and for (of )
 
 
 
 ##Targets to lesson 🧠
-    ###rescue student 
+    
        
 
 
@@ -117,12 +117,5 @@ break; default: placed by switch
 }
 
 }
-
-
-
-
-
-
-
 ##Notions globals-proyects ♟️
 :

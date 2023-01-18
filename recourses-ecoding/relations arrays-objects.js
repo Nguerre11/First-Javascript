@@ -11,3 +11,31 @@ const citenzens = {
   mike: { age: 25, location: 'Chicago' },
   samantha: { age: 35, location: 'Los Angeles' }
 };
+
+let person = {name: "John", age: 30, job: "developer"};
+let personValues = [Object.values(person)];
+console.log(personValues); // Output: ["John", 30, "developer"]
+
+/////////////////////
+let ageGuerreroFamily = {
+  nico: "17",
+  samu: "12",
+  claudia:"+40",
+  raul: "+40",
+  kira:"es una perra"
+};
+function solution(ageName)
+{
+  if (ageGuerreroFamily[ageName])
+  {
+    console.log(ageGuerreroFamily[ageName]);
+    return ;
+
+  }
+  
+    alert("you're wrong"); 
+  
+
+}
+solution("nico");
+
